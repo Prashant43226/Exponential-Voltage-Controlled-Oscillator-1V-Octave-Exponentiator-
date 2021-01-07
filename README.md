@@ -1,1 +1,2 @@
-# Linear-Integrated-Circuits-Project
+# Exponential Voltage Controlled Oscillator
+Created as part of Linear Integrated Circuits projectwork,this project dealt with creating a 1V/Octave exponentiator.In contrast to a VCO which uses linear changes in voltage in the input to change th efrequency at the output this VCO uses linear changes in input to output exponential changes in the frequency of the iutput.Thus this can be used in Pianos and other electronic synthesizers which have exponential change in frequency(typically doubling on every segment change) in response to linear changes in voltage. 
